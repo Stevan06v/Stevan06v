@@ -39,7 +39,7 @@ https://github.com/Stevan06v/[temphumsensor.git] | temperature & humidity
 
 
 == TECHNOLOGIES
-
+[.text-center]
 image:./img/css3.svg[CSS,40,30]
 image:./img/html5.svg[HTML,50,30]
 image:./img/js.svg[JS,40,30]
