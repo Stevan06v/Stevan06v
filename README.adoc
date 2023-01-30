@@ -36,9 +36,9 @@ https://github.com/Stevan06v/[home-assistant.git] | home-assitant-docs
 
 :tip-caption: pass:[🌊]
 [TIP] 
-https://github.com/Stevan06v/[temphumsensor.git] | temperature & humidity 
+https://github.com/Stevan06v/[temphumsensor.git] | temperature & humidity
+
 
 
 image:https://github-readme-stats.vercel.app/api/top-langs?username=stevan06v&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact[]
-
 image:https://github-readme-stats.vercel.app/api?username=stevan06v&show_icons=true&theme=dark&hide_border=true&locale=en[]
