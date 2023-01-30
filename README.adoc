@@ -27,11 +27,15 @@
 
 
 :tip-caption: pass:[🌐]
-
 [TIP] 
 https://github.com/Stevan06v/[stevan.git] | my website 
 
 
-:tip-caption: pass:[🌐]
+:tip-caption: pass:[🏠]
 [TIP] 
-https://github.com/Stevan06v/[stevan.git] | my website 
+https://github.com/Stevan06v/[home-assistant.git] | home-assitant-docs
+
+:tip-caption: pass:[☀️🌊]
+[TIP] 
+https://github.com/Stevan06v/[temphumsensor.git] | temperature & humidity for raspberry pi
+
