@@ -1,0 +1,32 @@
+= 💫 WELCOME TO MY GITHUB 💫
+
+:icons: font
+
+== THAT'S ME 👋
+[,json]
+----
+{
+    "name": "stevan",
+    "age": 17,
+    "school": "htl leonding",
+    "branch": "it/mediadesign",
+    "skills": [
+        "html",
+        "css",
+        "java script",
+        "php",
+        "node js",
+        "java",
+        "bash",
+        "python"
+    ]
+}
+----
+
+== CURRENTLY WORKING ON ⚙️
+
+
+:tip-caption: pass:[&#128161;]
+
+[TIP]
+It's possible to use Unicode glyphs as 
