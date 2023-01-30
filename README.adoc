@@ -42,7 +42,7 @@ https://github.com/Stevan06v/[temphumsensor.git] | temperature & humidity
 [.align-center]
 image:./img/css3.svg[CSS,40,30]
 image:./img/html5.svg[HTML,50,30]
-image:./img/js.svg[JS,40,30]
+image:./img/js.svg[JS,30,30]
 image:./img/java.svg[JAVA,60,50]
 image:./img/nodejs.svg[NODEJS,60,30]
 image:./img/php.svg[PHP,60,30]
