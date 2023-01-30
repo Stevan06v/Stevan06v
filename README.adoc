@@ -1,6 +1,6 @@
 = 💫 WELCOME TO MY GITHUB 💫
-
 :icons: font
+:hide-uri-scheme: 
 
 == THAT'S ME 👋
 [,json]
@@ -26,7 +26,12 @@
 == CURRENTLY WORKING ON ⚙️
 
 
-:tip-caption: pass:[&#128161;]
+:tip-caption: pass:[🌐]
 
-[TIP]
-It's possible to use Unicode glyphs as 
+[TIP] 
+https://github.com/Stevan06v/[stevan.git] | my website 
+
+
+:tip-caption: pass:[🌐]
+[TIP] 
+https://github.com/Stevan06v/[stevan.git] | my website 
