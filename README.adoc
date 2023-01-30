@@ -40,14 +40,14 @@ https://github.com/Stevan06v/[temphumsensor.git] | temperature & humidity
 
 == TECHNOLOGIES
 
-image:./img/css3.svg[CSS,30,30]
-image:./img/html5.svg[HTML,40,30]
-image:./img/js.svg[JS,30,30]
-image:./img/java.svg[JAVA,50,50]
-image:./img/nodejs.svg[NODEJS,50,30]
-image:./img/php.svg[PHP,40,30]
-image:./img/react.svg[REACT,40,30]
-image:./img/sql.svg[SQL,30,30]
+image:./img/css3.svg[CSS,40,30]
+image:./img/html5.svg[HTML,50,30]
+image:./img/js.svg[JS,40,30]
+image:./img/java.svg[JAVA,60,50]
+image:./img/nodejs.svg[NODEJS,60,30]
+image:./img/php.svg[PHP,60,30]
+image:./img/react.svg[REACT,60,30]
+image:./img/sql.svg[SQL,40,30]
 
 
 == GIT STATS
