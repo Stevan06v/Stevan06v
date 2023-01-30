@@ -23,7 +23,7 @@
 }
 ----
 
-== CURRENTLY WORKING ON ⚙️
+== CURRENTLY WORKING ON 🔨
 
 :tip-caption: pass:[🌐]
 [TIP] 
@@ -38,7 +38,7 @@ https://github.com/Stevan06v/[home-assistant.git] | home-assitant-docs
 https://github.com/Stevan06v/[temphumsensor.git] | temperature & humidity
 
 
-== TECHNOLOGIES
+== TECHNOLOGIES ⚙️
 image:./img/css3.svg[CSS,40,30]
 image:./img/html5.svg[HTML,50,30]
 image:./img/js.svg[JS,30,30]
