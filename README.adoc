@@ -29,7 +29,6 @@
 [TIP] 
 https://github.com/Stevan06v/[stevan.git] | my website 
 
-
 :tip-caption: pass:[🏠]
 [TIP] 
 https://github.com/Stevan06v/[home-assistant.git] | home-assitant-docs
@@ -37,6 +36,21 @@ https://github.com/Stevan06v/[home-assistant.git] | home-assitant-docs
 :tip-caption: pass:[🌊]
 [TIP] 
 https://github.com/Stevan06v/[temphumsensor.git] | temperature & humidity
+
+
+== TECHNOLOGIES
+
+image:./img/css3.svg[CSS,30,30]
+image:./img/html5.svg[HTML,40,30]
+image:./img/js.svg[JS,30,30]
+image:./img/java.svg[JAVA,50,50]
+image:./img/nodejs.svg[NODEJS,50,30]
+image:./img/php.svg[PHP,40,30]
+image:./img/react.svg[REACT,40,30]
+image:./img/sql.svg[SQL,30,30]
+
+
+== GIT STATS
 
 [.text-center]
 image:https://github-readme-stats.vercel.app/api/top-langs?username=stevan06v&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact[]
