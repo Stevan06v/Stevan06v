@@ -39,7 +39,7 @@ https://github.com/Stevan06v/[temphumsensor.git] | temperature & humidity
 
 
 == TECHNOLOGIES
-[.text-center]
+[.align-center]
 image:./img/css3.svg[CSS,40,30]
 image:./img/html5.svg[HTML,50,30]
 image:./img/js.svg[JS,40,30]
@@ -52,7 +52,7 @@ image:./img/sql.svg[SQL,40,30]
 
 == GIT STATS
 
-[.text-center]
+[.align-center]
 image:https://github-readme-stats.vercel.app/api/top-langs?username=stevan06v&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact[]
 image:https://github-readme-stats.vercel.app/api?username=stevan06v&show_icons=true&theme=dark&hide_border=true&locale=en[]
 
