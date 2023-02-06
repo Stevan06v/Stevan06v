@@ -18,7 +18,8 @@
         "node js",
         "java",
         "bash",
-        "python"
+        "python",
+        "react"
     ]
 }
 ----
@@ -39,18 +40,21 @@ https://github.com/Stevan06v/[temphumsensor.git] | temperature & humidity
 
 
 == TECHNOLOGIES ⚙️
-image:./img/css3.svg[CSS,40,30]
-image:./img/html5.svg[HTML,50,30]
-image:./img/js.svg[JS,30,30]
-image:./img/java.svg[JAVA,60,50]
-image:./img/nodejs.svg[NODEJS,60,30]
-image:./img/php.svg[PHP,60,30]
-image:./img/react.svg[REACT,60,30]
-image:./img/sql.svg[SQL,40,30]
-
+image:./img/css3.svg[CSS,50,50]
+image:./img/html5.svg[HTML,50,50]
+image:./img/js.svg[JS,50,50]
+image:./img/java.svg[JAVA,50,50]
+image:./img/nodejs.svg[NODEJS,50,50]
+image:./img/php.svg[PHP,50,50]
+image:./img/react.svg[REACT,50,50]
+image:./img/sql.svg[SQL,50,50]
+image:./img/ps.svg[PS,50,50]
+image:./img/maven.svg[MAVEN,50,50]
+image:./img/sh.svg[SH,50,50]
+image:./img/git.svg[GIT,50,50]
+image:./img/pr.svg[PR,50,50]
 
 == GIT STATS 📊
 [.align-center]
 image:https://github-readme-stats.vercel.app/api/top-langs?username=stevan06v&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact[]
 image:https://github-readme-stats.vercel.app/api?username=stevan06v&show_icons=true&theme=dark&hide_border=true&locale=en[]
-
