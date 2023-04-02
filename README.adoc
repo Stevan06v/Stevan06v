@@ -4,7 +4,7 @@
 
 [.text-center]
 [.d-flex.flex-column.justify-content-center]
-image:./img/headergitdark.gif[align="center",width=70%",link="mailto:stevanvlajic5@gmail.com"]
+image:./img/headergitdark.gif[align="center",width=100%",link="mailto:stevanvlajic5@gmail.com"]
 
 
 == THAT'S ME 👋
