@@ -2,8 +2,9 @@
 :icons: font
 :hide-uri-scheme: 
 
-
-image:./img/headergitdark.gif[align="center",width=80%",link="mailto:stevanvlajic5@gmail.com"]
+[.text-center]
+[.d-flex.flex-column.justify-content-center]
+image:./img/headergitdark.gif[align="center",width=70%",link="mailto:stevanvlajic5@gmail.com"]
 
 
 == THAT'S ME 👋
