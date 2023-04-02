@@ -32,20 +32,18 @@ image:./img/headergitdark.gif[align="center",width=100%",link="mailto:stevanvlaj
 == CURRENTLY WORKING ON 🔨
 
 :tip-caption: pass:[🤖]
-[TIP] 
+[TIP]
 https://github.com/Stevan06v/sensorify[sensorify.git] | web-developement project
 
 :tip-caption: pass:[📖]
-[TIP] 
+[TIP]
 https://github.com/Stevan06v/asciidoc-together[asciidoc-together.git] | write asciidoc together
 
 
 :tip-caption: pass:[🌊]
-[TIP] 
+[TIP]
 https://github.com/Stevan06v/temphumsensor[temphumsensor.git] | temperature & humidity
 
-
-image:./img/nyan-cat.gif[align="center",width=50%",link="mailto:stevanvlajic5@gmail.com"]
 
 == TECHNOLOGIES ⚙️
 image:./img/css3.svg[CSS,50,50]
@@ -66,3 +64,6 @@ image:./img/pr.svg[PR,50,50]
 [.align-center]
 image:https://github-readme-stats.vercel.app/api/top-langs?username=stevan06v&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact[]
 image:https://github-readme-stats.vercel.app/api?username=stevan06v&show_icons=true&theme=dark&hide_border=true&locale=en[]
+
+== Have a great day👋
+image:./img/nyan-cat.gif[align="center",width=100%",link="mailto:stevanvlajic5@gmail.com"]
