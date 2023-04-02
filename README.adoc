@@ -31,17 +31,18 @@ image:./img/headergitdark.gif[align="center",width=100%",link="mailto:stevanvlaj
 
 == CURRENTLY WORKING ON 🔨
 
-:tip-caption: pass:[🌐]
+:tip-caption: pass:[🤖]
 [TIP] 
-https://github.com/Stevan06v/[stevan.git] | my website 
+https://github.com/Stevan06v/sensorify[sensorify.git] | web-developement project
 
-:tip-caption: pass:[🏠]
+:tip-caption: pass:[📖]
 [TIP] 
-https://github.com/Stevan06v/[home-assistant.git] | home-assitant-docs
+https://github.com/Stevan06v/asciidoc-together[asciidoc-together.git] | write asciidoc together
+
 
 :tip-caption: pass:[🌊]
 [TIP] 
-https://github.com/Stevan06v/[temphumsensor.git] | temperature & humidity
+https://github.com/Stevan06v/temphumsensor[temphumsensor.git] | temperature & humidity
 
 
 == TECHNOLOGIES ⚙️
