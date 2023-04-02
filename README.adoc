@@ -2,7 +2,7 @@
 :icons: font
 :hide-uri-scheme: 
 
-image:./img/headergitdark.gif[link="mailto:stevanvlajic5@gmail.com"]
+image:./img/headergitdark.gif[width=300,height=200,link="mailto:stevanvlajic5@gmail.com"]
 
 
 == THAT'S ME 👋
