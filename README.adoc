@@ -45,6 +45,8 @@ https://github.com/Stevan06v/asciidoc-together[asciidoc-together.git] | write as
 https://github.com/Stevan06v/temphumsensor[temphumsensor.git] | temperature & humidity
 
 
+image:./img/nyan-cat.gif[align="center",width=50%",link="mailto:stevanvlajic5@gmail.com"]
+
 == TECHNOLOGIES ⚙️
 image:./img/css3.svg[CSS,50,50]
 image:./img/html5.svg[HTML,50,50]
