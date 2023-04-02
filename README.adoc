@@ -66,4 +66,4 @@ image:https://github-readme-stats.vercel.app/api/top-langs?username=stevan06v&sh
 image:https://github-readme-stats.vercel.app/api?username=stevan06v&show_icons=true&theme=dark&hide_border=true&locale=en[]
 
 == Have a great day👋
-image:./img/nyan-cat.gif[align="center",width=60%",link="mailto:stevanvlajic5@gmail.com"]
+image:./img/nyan-cat.gif[align="center",width=40%",link="mailto:stevanvlajic5@gmail.com"]
