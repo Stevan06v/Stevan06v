@@ -2,6 +2,9 @@
 :icons: font
 :hide-uri-scheme: 
 
+image:./img/headergitdark.gif[link="mailto:stevanvlajic5@gmail.com"]
+
+
 == THAT'S ME 👋
 [,json]
 ----
