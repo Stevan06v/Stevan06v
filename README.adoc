@@ -63,7 +63,7 @@ image:./img/pr.svg[PR,50,50]
 == GIT STATS 📊
 [.align-center]
 image:https://github-readme-stats.vercel.app/api/top-langs?username=stevan06v&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact[]
-image:https://github-readme-stats.vercel.app/api?username=stevan06v&show_icons=true&theme=dark&hide_border=true&locale=en[]
+image:https://github-readme-stats.vercel.app/api?username=jonasfroeller&show_icons=true&theme=dark&hide_border=true&locale=en[]
 
 == Have a great day👋
 
