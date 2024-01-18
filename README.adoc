@@ -12,7 +12,8 @@ image:./img/headergitdark.gif[align="center",width=100%",link="mailto:stevanvlaj
 ----
 {
     "name": "stevan",
-    "age": 17,
+    "age": 18
+,
     "school": "htl leonding",
     "branch": "it/mediadesign",
     "skills": [
